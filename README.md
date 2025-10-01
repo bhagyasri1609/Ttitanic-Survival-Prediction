@@ -76,8 +76,6 @@ Model	Accuracy
 Logistic Regression	~77%
 XGBoost Classifier	~82%
 
-(Replace XX% with your actual results from the notebook)
-
 🚀 How to Run
 
 Clone this repository:
